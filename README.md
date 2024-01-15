@@ -1,38 +1,38 @@
 
-PDE predictor based PEE
+基于PDE预测器的预测误差扩展方法
 =======
 
 
-This repo is implementation for the accepted paper "[Reversible data hiding based on PDE predictor](https://www.sciencedirect.com/science/article/pii/S0164121213001374)" (JSS 2013).
+论文题目： "[Reversible data hiding based on PDE predictor](https://www.sciencedirect.com/science/article/pii/S0164121213001374)" (JSS 2013).
 
 
 
-## How to run
+## 如何运行
 
 ```
-go to Ou_JSS_PEE
-run Ou_Sort_pde.m
+进入 Ou_JSS_PEE 文件夹
+运行 Ou_Sort_pde.m 文件
 ```
 
 ## Experimental Results
 
 <p align="center"> <img src="./R1.jpg" width="100%">    </p>
-<p align="center"> Figure 1:  Comparison of the predictors. </p>
+<p align="center"> 图1: 预测器对比. </p>
 
 <p align="center"> <img src="./R2.jpg" width="100%">    </p>
-<p align="center"> Figure 2:  Performance evaluation.</p>
+<p align="center"> 图2: 性能评估.</p>
 
 
-## Environment
+## 实验环境
 Matlab 2016b <br>
 
 
-## Acknowledgement
-This work was supported in part by 973 Program (2011CB302204), National Natural Science Funds for Distinguished Young Scholar (61025013), National NSF of China (61073159, 61272355), PCSIRT (IRT 201206), Fundamental Research Funds for the Central Universities (2012JBM042).
+## 致谢
+这项工作得到了973计划（2011CB302204）、国家杰出青年自然科学基金（61025013）、国家自然科学基金项目（6107315961272355）、PCSIRT（IRT 201206）、中央高校基本科研业务费（2012JBM042）的部分资助。
 
 
-## Citation
-If you find this work useful for your research, please cite
+## 引用格式
+如果这项工作对您的研究有帮助, 请按如下格式引用：
 ```
 @article{OU20132700,
 title = {Reversible data hiding based on PDE predictor},
@@ -47,6 +47,6 @@ author = {Bo Ou and Xiaolong Li and Yao Zhao and Rongrong Ni},
 }
 ```
 
-## License and Copyright
-The project is open source under MIT license (see the ``` LICENSE ``` file).
+## 版权声明
+受欧博老师委托，本项目已开源 (详见 ``` MIT LICENSE ``` ).
 
