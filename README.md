@@ -14,7 +14,7 @@
 运行 Ou_Sort_pde.m 文件
 ```
 
-## Experimental Results
+## 实验结果
 
 <p align="center"> <img src="./R1.jpg" width="100%">    </p>
 <p align="center"> 图1: 预测器对比. </p>
